@@ -6,12 +6,12 @@ WhatsappMe is a chatbot for WhatsApp that leverages your previous chat history t
 ## Installation
 To get started with WhatsappMe, follow these steps:
 
-1. Clone this repository:
+1. [Fork](https://github.com/Keith-Web3/WhatsappMe/fork) the repository.
+2. Clone the forked repository:
 ```bash
-git clone https://github.com/Keith-Web3/WhatsappMe.git
+git clone https://github.com/<YOUR-USERNAME>/WhatsappMe.git
 ```
-
-2. Install the required dependencies by running:
+3. Install the required dependencies by running:
 ```bash
 npm install
 ```
