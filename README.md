@@ -35,12 +35,17 @@ npm install
 6. Paste the exported chat data into the `allchats.txt` file. You can include data from multiple chats, but note that having more chat data will result in more OpenAI tokens being deducted per message.
 
 ### Running the Chatbot
+8. Store your embedded data in your pinecone index by running:
+```bash
+node ingest.js
+```
+`Note: You only have to run the ingest command once`
 
-8. Execute the chatbot by running:
+9. Execute the chatbot by running:
 ```bash
 node index.cjs
 ```
 
-9. Scan the displayed QR code from your WhatsApp account to link WhatsappMe to your WhatsApp account.
+10. Scan the displayed QR code from your WhatsApp account to link WhatsappMe to your WhatsApp account.
 
 That's it! You're ready to use WhatsappMe to generate contextually relevant replies in your WhatsApp chats.
