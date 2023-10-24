@@ -1,0 +1,25 @@
+{
+  "name": "whatsappme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinecone-database/pinecone": "^1.1.1",
+    "@xenova/transformers": "^2.6.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "langchain": "^0.0.166",
+    "openai": "^4.12.1",
+    "pdf-parse": "^1.1.1",
+    "peggy": "^3.0.2",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.22.1"
+  }
+}
