@@ -41,6 +41,6 @@ npm install
 node index.cjs
 ```
 
-9. Scan the QR code from your WhatsApp account using the displayed QR code scanner to link WhatsappMe to your WhatsApp account.
+9. Scan the displayed QR code from your WhatsApp account to link WhatsappMe to your WhatsApp account.
 
 That's it! You're ready to use WhatsappMe to generate contextually relevant replies in your WhatsApp chats.
