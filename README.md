@@ -28,7 +28,7 @@ npm install
 
 ### Preparing Chat Data
 
-4. Export your WhatsApp chat data. 
+4. Navigate to your whatsapp app, enter a chat and export the chat excluding media files. 
 
 5. Create an `allchats.txt` file using the provided `allchats.txt.example` file as a guide.
 
