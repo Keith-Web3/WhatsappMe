@@ -32,7 +32,7 @@ npm install
 
 5. Create an `allchats.txt` file using the provided `allchats.txt.example` file as a guide.
 
-6. Paste the exported chat data into the `allchats.txt` file. You can include data from multiple chats, but note that having more chat data will result in more OpenAI tokens being deducted per message.
+6. Paste the exported chat data into the `allchats.txt` file. You can include data from multiple chats, but note that having more chat data will result in more OpenAI tokens being deducted during the embedding process.
 
 ### Running the Chatbot
 8. Store your embedded data in your pinecone index by running:
